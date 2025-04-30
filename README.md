@@ -95,7 +95,7 @@ The VAD platform integrates three key technological components:
 
 ```bash
 # Clone the repository
-git clone https://github.com/versearendream/verse-arenadream.git
+git clone https://github.com/vadweb3/VerseArenaDream.git
 cd verse-arenadream
 
 # Install dependencies
